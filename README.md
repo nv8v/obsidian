@@ -20,5 +20,5 @@ It covers the tools and methods I use to structure information, keep course note
 - Links, tags, and navigation
 - Knowledge management workflows
 
-[Read the documentation online](https://nv8v.github.io/Obsidian/)
+[Read the documentation online](https://nv8v.github.io/obsidian/)
 
